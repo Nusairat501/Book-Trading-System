@@ -31,3 +31,19 @@ An academic full-stack Web Application developed as a course project for **Softw
 **Database: MySQL
 
 **Tools & Environment: Apache Tomcat, NetBeans IDE, Git & GitHub
+
+## 📸 Some Screenshots
+
+### 👤 Student Dashboard
+| Books View | My Books |
+|--- |--- |
+| ![Books](./screenshots/Books.png) | ![My Books](./screenshots/MyBooks.png) |
+
+| Reservations | Chat / Messaging |
+|--- |--- |
+| ![Reservations](./screenshots/Reserv1.png) | ![Chat](./screenshots/Chat1.png) |
+
+### 🛡️ Admin Dashboard
+| Admin Panel | Management |
+|--- |--- |
+| ![Admin 1](./screenshots/Admin1.png) | ![Admin 2](./screenshots/Admin2.png) |
