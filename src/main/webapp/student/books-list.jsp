@@ -63,7 +63,7 @@
                 <div class="col-md-4 mb-4">
                     <div class="card shadow-sm h-100">
                         <img src="${listing.imagePath}" class="card-img-top" 
-                             style="height:220px;object-fit:cover;">
+                             style="height:220px;object-fit:contain;">
 
                         <div class="card-body">
                             <a href="listings?action=details&id=${listing.listingId}"
