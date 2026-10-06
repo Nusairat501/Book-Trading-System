@@ -35,12 +35,12 @@
                     </div>
                 </c:forEach>
             </div>
-            <button type="submit" class="btn btn-primary mt-3">Propose Exchange</button>
+            <button  type="submit" class="btn btn-primary mt-3">Propose Exchange </button>
         </c:if>
 
         <c:if test="${empty myExchangeListings}">
             <p class="text-muted mt-2">You have no available listings for exchange. 
-                <a href="listings?action=add-book" class="text-decoration-none">Add a book</a>
+                <a href="listings?action=my-books" class="text-decoration-none">Add a book</a>
             </p>
         </c:if>
     </form>
